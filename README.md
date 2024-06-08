@@ -44,4 +44,3 @@ To learn more about the CQRS pattern, you can refer to the following resources:
 
 CQRS: <br>Command Query Responsibility Segregation https://en.wikipedia.org/wiki/Command_Query_Responsibility_Segregation
 <br>Implementing CQRS with .NET https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/cqrs-microservice-reads
-<br>CQRS Pattern in .NET Core https://medium.com/@jaydeepvpatil225/cqrs-and-mediatr-pattern-implementation-using-net-core-6-web-api-47d76da907d7
